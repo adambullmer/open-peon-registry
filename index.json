@@ -902,6 +902,46 @@
       "quality": "flagged"
     },
     {
+      "name": "brewmaster_de",
+      "display_name": "Pandaren Brewmaster (DE)",
+      "version": "1.0.1",
+      "description": "German voice lines for the Pandaren Brewmaster hero from Warcraft III: The Frozen Throne",
+      "author": {
+        "name": "PaulBFB",
+        "github": "PaulBFB"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "de",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 25,
+      "total_size_bytes": 2382214,
+      "source_repo": "PaulBFB/openpeon-pandaren-brewmaster-de",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "25df464d2e083f8fcd7d4f7580304759430d00935de6ea27892194ba13f7b7ee",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "PandarenBrewmasterReady1.wav",
+        "PandarenBrewmasterYes1.wav"
+      ],
+      "added": "2026-03-06",
+      "updated": "2026-03-06"
+    },
+    {
       "name": "brewmaster_ru",
       "display_name": "Pandaren Brewmaster (Russian)",
       "version": "1.0.0",
