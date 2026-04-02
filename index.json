@@ -1547,6 +1547,38 @@
       "updated": "2026-02-16"
     },
     {
+      "name": "claptrap-fr",
+      "display_name": "ClapTrap (FR) — Borderlands 2",
+      "version": "1.0.0",
+      "description": "Répliques de ClapTrap en français depuis Borderlands 2",
+      "author": { "name": "Jean-Baptiste Choquet", "github": "Jechoque42" },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "fr",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 39,
+      "total_size_bytes": 6368,
+      "source_repo": "Jechoque42/openpeon-claptrap-fr",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "364fab4998ebce0442697862ec4587b86af69e041c98f35e4e81915d04edecb5",
+      "tags": ["gaming", "borderlands", "robot", "french"],
+      "preview_sounds": [
+        "Ah ah ! Je suis vivant !",
+        "Qu'as-tu fait, Sbire ?"
+      ],
+      "added": "2026-04-01",
+      "updated": "2026-04-01"
+    },
+    {
       "name": "clean_chimes",
       "display_name": "Clean Chimes",
       "version": "1.0.0",
