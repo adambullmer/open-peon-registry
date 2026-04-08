@@ -4130,22 +4130,23 @@
       },
       "trust_tier": "verified",
       "categories": [
+        "input.required",
+        "resource.limit",
         "session.start",
         "task.acknowledge",
         "task.complete",
         "task.error",
         "task.progress",
-        "user.spam",
-        "input.required"
+        "user.spam"
       ],
       "language": "en",
       "license": "fair-use",
-      "sound_count": 30,
-      "total_size_bytes": 1934928,
+      "sound_count": 31,
+      "total_size_bytes": 2015805,
       "source_repo": "adambullmer/open-peon-japan-rail",
       "source_ref": "v1.0.0",
       "source_path": ".",
-      "manifest_sha256": "0f4c75850841021c34f7d0c6106ff300bfe02618d5845573629b259180805b82",
+      "manifest_sha256": "1840b34a04fc1418be8101f980bc7f6353b7050fa63616d3d0f8bdf49bf73d92",
       "tags": [
         "trains",
         "japan"
