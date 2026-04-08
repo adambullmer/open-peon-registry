@@ -4143,7 +4143,7 @@
       "sound_count": 30,
       "total_size_bytes": 1934928,
       "source_repo": "adambullmer/open-peon-japan-rail",
-      "source_ref": "main",
+      "source_ref": "v1.0.0",
       "source_path": ".",
       "manifest_sha256": "0f4c75850841021c34f7d0c6106ff300bfe02618d5845573629b259180805b82",
       "tags": [
